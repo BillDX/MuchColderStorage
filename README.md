@@ -8,6 +8,8 @@ It's one of three runs of the same prompt:
 - [ColderStorage](https://github.com/BillDX/ColderStorage): DeepSeek V4.1 Flash on Ollama Cloud, through Codex and Ollama.
 - MuchColderStorage (this repo): gpt-oss-20b, local, through Codex and Ollama.
 
+The write-up comparing all three: [Codex + Ollama: an easier route to coding with local LLMs](https://mrfuture.com/2026/10/codex-ollama-local-llms/).
+
 The code and tests are the model's output, unedited. This README was added afterwards; the model didn't write one.
 
 ## Run it
