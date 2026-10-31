@@ -4,7 +4,7 @@ A small Infocom-style text adventure about escaping a haunted data center. It wa
 
 It's one of three runs of the same prompt:
 
-- [COLD STORAGE](https://mrfuture.com/projects/cold-storage/): Qwen3.8 27B on a 64GB MacBook Pro M3, through the Pi coding agent ([repo](https://github.com/BillDX/coldstorage)).
+- [COLD STORAGE](https://mrfuture.com/projects/cold-storage/): Qwen3.8 27B on a 96GB MacBook Pro M3 Max, through the Pi coding agent ([repo](https://github.com/BillDX/coldstorage)).
 - [ColderStorage](https://github.com/BillDX/ColderStorage): DeepSeek V4.1 Flash on Ollama Cloud, through Codex and Ollama.
 - MuchColderStorage (this repo): gpt-oss-20b, local, through Codex and Ollama.
 
